@@ -1,5 +1,9 @@
 Quicksort implementation in typescript (npm packaged)
 
+## Installation
+
+Install like [npm package](https://www.npmjs.com/package/quicksort-typescript) `npm i quicksort-typescript`
+
 ## Contributions welcome!
 
 [Open a new PR](https://github.com/nordible/quickSort-typescript/pulls) here on GitHub.
