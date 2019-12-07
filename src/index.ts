@@ -49,5 +49,3 @@ after quick sort: ${quickSort([11,8,14,3,6,2,1, 7],0,7)}
 
 input: ${[16,11,9,7,6,5,3, 2]}
 after quick sort: ${quickSort([16,11,9,7,6,5,3, 2],0,7)}`);
-
-
