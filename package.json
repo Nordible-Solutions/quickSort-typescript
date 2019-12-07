@@ -1,7 +1,7 @@
 {
-  "name": "typescript-boilerplate",
+  "name": "quicksort-typescript",
   "version": "1.0.0",
-  "description": "Extremely basic template of a Typescript project (supports npm packaging)",
+  "description": "Quicksort implementation in typescript (npm packaged)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nordible/typescript-boilerplate.git"
+    "url": "git+https://github.com/nordible/quickSort-typescript.git"
   },
   "keywords": [
     "typescript",
@@ -21,9 +21,9 @@
   "author": "Nordible <info@nordible.com> (https://nordible.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nordible/typescript-boilerplate/issues"
+    "url": "https://github.com/nordible/quickSort-typescript/issues"
   },
-  "homepage": "https://nordible.com/typescript-boilerplate/",
+  "homepage": "https://nordible.com/quickSort-typescript/",
   "files": [
     "dist/*"
   ],
