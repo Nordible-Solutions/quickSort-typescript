@@ -1,6 +1,6 @@
 {
   "name": "quicksort-typescript",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Quicksort implementation in typescript (npm packaged)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
