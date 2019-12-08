@@ -1,6 +1,6 @@
 {
   "name": "quicksort-typescript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Quicksort implementation in typescript (npm packaged)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,9 @@
   },
   "keywords": [
     "typescript",
-    "template"
+    "quicksort",
+    "sorting",
+    "algorithm"
   ],
   "author": "Nordible <info@nordible.com> (https://nordible.com)",
   "license": "MIT",
